@@ -1,4 +1,4 @@
-﻿Zona;Particulas menor que 2.5;Particulas menor que 10;Dioxido de Azufre;Dioxido de Nitrogeno;OZONO;Defunciones;Calidad de aire
+﻿Zona;Part_menor_2.5;Part_menor_10;SOX;NOX;OZONO;Defunciones;CalidadAire
 1;12.2;24.6;10.75;49;41.5;3708;MB
 1;12.8;26;7.25;50.5;38;3947;MB
 1;12.4;22.8;4.75;43.3;46.25;4259;MB
